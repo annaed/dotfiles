@@ -10,8 +10,8 @@
 	export https_proxy=http://localhost:3128
 
 	#atom proxy settings
-	apm-beta config set https-proxy http://localhost:3128
-	apm-beta config set http-proxy http://localhost:3128
+	apm config set https-proxy http://localhost:3128
+	apm config set http-proxy http://localhost:3128
 
 	#nvm through brew
 	export NVM_DIR=~/.nvm
